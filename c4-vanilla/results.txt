@@ -1,0 +1,6 @@
+margin: 0.0
+average sampling rate: 0.059591204338239674
+average num sentences rejected due to margin: 0.0
+percentage of average num sentences rejected due to margin: 0.0%
+average num sentences rejected due to falling into a blocked region: 0.0
+percentage of average num sentences rejected due to falling into a blocked region: 0.0%
